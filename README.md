@@ -12,4 +12,5 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 最新更新日：2022年3月19日
 
 (補足)
-・練習用にworkファイルを作成
+・練習用にworkファイルを作成  
+・練習用にnewfileを作成
