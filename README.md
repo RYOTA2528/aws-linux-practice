@@ -17,4 +17,5 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 ・練習用にnewfileを作成
 ・etc/ディレクトリ配下でcatコマンドの練習
 ・lessコマンドによるファイル内スクロールとファイル内検索機能の確認
+・cpコマンドの各種操作方法の練習
 
