@@ -16,6 +16,7 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 ・練習用にworkディレクトリを作成  
 ・練習用にnewfileファイルを作成
 ・練習用にmvtestディレクトリを作成
+・練習用にdirl,dir2ディレクトリを作成
 ・etc/ディレクトリ配下でcatコマンドの練習
 ・lessコマンドによるファイル内スクロールとファイル内検索機能の確認
 ・cpコマンドによるファイル/ディレクトリのコピー　各種操作方法の練習
