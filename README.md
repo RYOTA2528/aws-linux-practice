@@ -13,8 +13,9 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 最新更新日：2022年3月20日
 
 (補足)
-・練習用にworkファイルを作成  
-・練習用にnewfileを作成
+・練習用にworkディレクトリを作成  
+・練習用にnewfileファイルを作成
+・練習用にmvtestディレクトリを作成
 ・etc/ディレクトリ配下でcatコマンドの練習
 ・lessコマンドによるファイル内スクロールとファイル内検索機能の確認
 ・cpコマンドの各種操作方法の練習
