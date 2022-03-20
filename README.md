@@ -15,5 +15,6 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 (補足)
 ・練習用にworkファイルを作成  
 ・練習用にnewfileを作成
-・etc/ディレクトリ配下でcatコマンドの
+・etc/ディレクトリ配下でcatコマンドの練習
+・lessコマンドによるファイル内スクロールとファイル内検索機能の確認
 
