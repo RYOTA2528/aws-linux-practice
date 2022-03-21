@@ -22,4 +22,4 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 ・cpコマンドによるファイル/ディレクトリのコピー　各種操作方法の練習<br/>
 ・mvコマンドによるファイル/ディレクトリの移動　各種操作方法の練習<br/>
 ・lsコマンドによるリンク(Linux の ファイルシステムでは、ファイル に別名を付けることができます。 この機能をリンクと呼びます)の各種操作方法野確認<br/>
-・findコマンドによるディレクトリツリー内の各種操作方法について
+・findコマンドによるディレクトリツリー内の各種操作方法（-name,-iname,-type）
