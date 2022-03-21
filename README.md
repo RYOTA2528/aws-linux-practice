@@ -24,4 +24,5 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 ・lsコマンドによるリンク(Linux の ファイルシステムでは、ファイル に別名を付けることができます。 この機能をリンクと呼びます)の各種操作方法野確認<br/>
 ・findコマンドによるディレクトリツリー内の各種操作方法（-name,-iname,-type,-a）<br/>
 ・パス名展開とブレース展開について<br/>
-・locateコマンドによるパス名の一部を指定してファイルを探す方法
+・locateコマンドによるパス名の一部を指定してファイルを探す方法<br/>
+・helpコマンドまたはmanコマンドによるコマンド使用方法の確認
