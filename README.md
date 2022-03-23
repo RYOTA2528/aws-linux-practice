@@ -32,4 +32,6 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 <br/>
   ・**テキストエディタであるVimの操作方法練習**<br/>
     ・インストール方法の学習、vimコマンドによる起動、:+q＋Enterによる終了コマンド<br/>
-    ・ファイルを開く・保存・新規作成の方法（練習用にvim newfile1.txt ファイルを作成）
+    ・ファイルを開く・保存・新規作成の方法（練習用にvim newfile1.txt ファイルを作成）<br/>
+    ・カーソル移動の方法,文字の削除方法,文字の入力<br/>
+    
