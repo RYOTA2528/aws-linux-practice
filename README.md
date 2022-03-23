@@ -10,7 +10,7 @@
 https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_XrVSI/edit#gid=0
 
 
-最新更新日：2022年3月21日
+最新更新日：2022年3月23日
 
 (補足)<br/>
 ・練習用にworkディレクトリを作成<br/>
@@ -25,4 +25,5 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 ・findコマンドによるディレクトリツリー内の各種操作方法（-name,-iname,-type,-a）<br/>
 ・パス名展開とブレース展開について<br/>
 ・locateコマンドによるパス名の一部を指定してファイルを探す方法<br/>
-・helpコマンドまたはmanコマンドによるコマンド使用方法の確認
+・helpコマンドまたはmanコマンドによるコマンド使用方法の確認<br/>
+・$PATCHやwhichコマンドによるcommandosパスの確認
