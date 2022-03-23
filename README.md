@@ -26,4 +26,4 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 ・パス名展開とブレース展開について<br/>
 ・locateコマンドによるパス名の一部を指定してファイルを探す方法<br/>
 ・helpコマンドまたはmanコマンドによるコマンド使用方法の確認<br/>
-・$PATCHやwhichコマンドによるcommandosパスの確認
+・$PATCHやwhichコマンドによるコマンドパスの確認
