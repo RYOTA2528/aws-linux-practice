@@ -26,4 +26,9 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 ・パス名展開とブレース展開について<br/>
 ・locateコマンドによるパス名の一部を指定してファイルを探す方法<br/>
 ・helpコマンドまたはmanコマンドによるコマンド使用方法の確認<br/>
-・$PATCHやwhichコマンドによるコマンドパスの確認
+・$PATCHやwhichコマンドによるコマンドパスの確認<br/>
+・LANG=ja.UTF-8 コマンド名 --help　による日本語ドキュメントの表示><br/>
+<br/>
+<br/>
+  ・**テキストエディタであるVimの操作方法練習**<br/>
+    ・インストール方法の学習、vimコマンドによる起動、q＋Enterによる終了コマンド<>
