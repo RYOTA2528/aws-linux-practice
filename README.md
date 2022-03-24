@@ -46,7 +46,10 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
   ・**bashの設定方法について**
     ・エイリアス(alias)によるコマンドに別名をつける方法、エイリアスの削除方法、エイリアスの一時的な無効方法<br/>
     ・typeコマンドによる、本当のコマンドかそれともエイリアスかの判断方法<br/>
-    ・bashのオプション設定方法について(setコマンド,)<br/>
+    ・bashのオプション設定方法について(setコマンド,shoptコマンド)<br/>
+    ・**シェル変数**について<br/>
+      ・プロンプトの設定変更について(PS1='文字列')
+    
     
     
     
