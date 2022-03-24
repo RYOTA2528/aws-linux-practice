@@ -44,8 +44,10 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 <br/>
 <br/>
   ・**bashの設定方法について**
-    ・エイリアス(alias)によるコマンドに別名をつける方法、エイリアスの削除方法、エイリアスの一時的な無効<br/>
+    ・エイリアス(alias)によるコマンドに別名をつける方法、エイリアスの削除方法、エイリアスの一時的な無効方法<br/>
     ・typeコマンドによる、本当のコマンドかそれともエイリアスかの判断方法<br/>
+    ・bashのオプション設定方法について(setコマンド,)<br/>
+    
     
     
     
