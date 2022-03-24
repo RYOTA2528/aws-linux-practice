@@ -39,7 +39,7 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・Jコマンドによる行の連結について<br/>
     ・アンドゥ（元に戻す）とリドゥ（やり直し）について（uコマンドで編集前に戻る(アンドゥ),Ctrl+rでアンドゥの取り消し(リドゥ))<br/>
     ・文字列の検索方法と結果の移動方法(/,?,n,N)<br/>
-    
+    ・文字列の置換方法について(%s/置換元文字列/置換後文字列)<br/>
     
     
     
