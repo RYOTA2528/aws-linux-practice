@@ -54,6 +54,8 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
       ・プロンプトの設定変更について(PS1='文字列')<br/>
       ・~/binディレクトリの使用用途について（基本的には自作したコマンドの配置場所）<br/>
       ・コマンド履歴関連のシェルについて(HISTEILE,HISTEILESIZE,HISTSIZE)<br/>
+    ・**bash再ログインによる設定リセットを防ぐ方法**
+      ・
 <br/>
 <br/>
   ・**環境変数 について**<br/>
