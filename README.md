@@ -10,7 +10,7 @@
 https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_XrVSI/edit#gid=0
 
 
-最新更新日：2022年3月23日
+最新更新日：2022年3月27日
 
 (補足)<br/>
 ・練習用にworkディレクトリを作成<br/>
@@ -47,6 +47,9 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・エイリアス(alias)によるコマンドに別名をつける方法、エイリアスの削除方法、エイリアスの一時的な無効方法<br/>
     ・typeコマンドによる、本当のコマンドかそれともエイリアスかの判断方法<br/>
     ・bashのオプション設定方法について(setコマンド,shoptコマンド)<br/>
+    ・**LANG（言語）の切り替え方法**
+      ・LANG=ja_JP.UTF-8 日本語へ
+      ・LANG=en_US.UTF-8 英語
     ・**シェル変数**について<br/>
       ・プロンプトの設定変更について(PS1='文字列')
       ・~/binディレクトリの使用用途について（基本的には自作したコマンドの配置場所）
