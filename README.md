@@ -49,6 +49,7 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・bashのオプション設定方法について(setコマンド,shoptコマンド)<br/>
     ・**シェル変数**について<br/>
       ・プロンプトの設定変更について(PS1='文字列')
+      ・~/binディレクトリの使用用途について（基本的には自作したコマンドの配置場所）
     
     
     
