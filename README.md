@@ -49,10 +49,11 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・bashのオプション設定方法について(setコマンド,shoptコマンド)<br/>
     ・**LANG（言語）の切り替え方法**
       ・LANG=ja_JP.UTF-8 日本語へ
-      ・LANG=en_US.UTF-8 英語
+      ・LANG=en_US.UTF-8 英語へ
     ・**シェル変数**について<br/>
       ・プロンプトの設定変更について(PS1='文字列')
       ・~/binディレクトリの使用用途について（基本的には自作したコマンドの配置場所）
+      ・コマンド履歴関連のシェルについて(HISTEILE,HISTEILESIZE,HISTSIZE)
     
     
     
