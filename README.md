@@ -56,6 +56,10 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
       ・コマンド履歴関連のシェルについて(HISTEILE,HISTEILESIZE,HISTSIZE)<br/>
 <br/>
 <br/>
+  ・**環境変数 について**<br/>
+    ・外部コマンドと組み込みコマンドの違いについて<br/>
+    ・printenvコマンドによる現在設定されてる環境変数の表示方法<br/>
+    ・exportコマンドによる環境変数の設定方法について<br/>
     
     
     
