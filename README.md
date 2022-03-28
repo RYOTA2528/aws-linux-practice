@@ -55,7 +55,8 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
       ・~/binディレクトリの使用用途について（基本的には自作したコマンドの配置場所）<br/>
       ・コマンド履歴関連のシェルについて(HISTEILE,HISTEILESIZE,HISTSIZE)<br/>
     ・**bash再ログインによる設定リセットを防ぐ方法**
-      ・
+      ・具体的に設定ファイルをカスタマイズしていく方法
+      ・バックアップの取り方について
 <br/>
 <br/>
   ・**環境変数 について**<br/>
