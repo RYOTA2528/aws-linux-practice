@@ -60,7 +60,8 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
       ・注意事項（設定を行うシェルとは別にもう一つシェルを起動しておくといい）
       ・実際にVimを使用し、bashrcファイルへPSIコマンドを利用したログインシェルの変更様式を記載し設定をしました。
       ・bashrcファイルと.bash_profileファイルの違いについて理解
-      ・source ~/.bashrc によるファイルの実行を
+      ・source ~/.bashrc によるファイルの実行を理解
+      ・#はコメント
 <br/>
 <br/>
   ・**環境変数 について**<br/>
