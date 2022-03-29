@@ -74,6 +74,10 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・printenvコマンドによる現在設定されてる環境変数の表示方法<br/>
     ・exportコマンドによる環境変数の設定方法について<br/>
     　(ex)export LESS='--no-init' これでlessコマンド終了時に画面を終了しないオプション。また、exportでLESSを環境変数<br/>
+<br/>
+<br/>
+  ・**ファイルのオーナー・グループについて**<br/>
+    ・パーミッションの確認方法(ls -l 対象ファイル)<br/>
     
     
     
