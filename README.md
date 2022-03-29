@@ -10,7 +10,7 @@
 https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_XrVSI/edit#gid=0
 
 
-最新更新日：2022年3月27日
+最新更新日：2022年3月29日
 
 (補足)<br/>
 ・練習用にworkディレクトリを作成<br/>
@@ -57,6 +57,7 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・**bash再ログインによる設定リセットを防ぐ方法**
       ・具体的に設定ファイルをカスタマイズしていく方法
       ・バックアップの取り方について
+      ・注意
 <br/>
 <br/>
   ・**環境変数 について**<br/>
