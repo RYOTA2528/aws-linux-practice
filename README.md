@@ -78,6 +78,7 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 <br/>
   ・**ファイルのオーナー・グループについて**<br/>
     ・パーミッションの確認方法(ls -l 対象ファイル)<br/>
+    ・r/w/x できるファイルとできないファイルの確認方法
     
     
     
