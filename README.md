@@ -10,7 +10,7 @@
 https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_XrVSI/edit#gid=0
 
 
-最新更新日：2022年3月29日
+最新更新日：2022年3月日
 
 (補足)<br/>
 ・練習用にworkディレクトリを作成<br/>
@@ -83,7 +83,7 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・他ユーザーからディレクトリの内容を見られないようにする設定方法について（rwx------）<br/>
     ・**chmodコマンド**によるパーミッションの設定方法について<br/>
       ・シンボルモードchmod[ugoa][+-=]<ファイル名><br/>
-      ・複数のユーザをまとめて指定しパーミッション設定を行う
+      ・複数のユーザをまとめて指定しパーミッション設定を行う方法<br/>
     
     
     
