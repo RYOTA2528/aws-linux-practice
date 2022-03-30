@@ -91,7 +91,11 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・suコマンドによる『スーパーユーザー』への切り替え方法<br/>
     ・sudoコマンドによる別のユーザとしてコマンドを実行する方法（一時的敵にスーパーユーザーの権限を得たい時に使用）<br/>
     ・sudoコマンドの実行を許可する範囲を変更する方法について（スーパーユーザーが/etc/sudoersファイルに追記し権限を追加）<br/>
-    ・/etc/sudoersファイルの変更方法(直接編集ではなくvisudoコマンドによる変更が)
+    ・/etc/sudoersファイルの変更方法(直接編集ではなくvisudoコマンドによる変更が必須)<br/>
+<br/>
+<br/>
+  ・**プロセスとジョブについて**
+    ・プロセスの
     
     
     
