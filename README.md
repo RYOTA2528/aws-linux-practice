@@ -81,6 +81,7 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・r/w/x できるファイルとできないファイルの確認方法<br/>
     ・ファイルおよびディレクトリそれぞれのパーミッションの見方について<br/>
     ・他ユーザーからディレクトリの内容を見られないようにする設定方法について（rwx------）<br/>
+    ・chmodコマンドによるパーミッションの設定方法について<br/>
     
     
     
