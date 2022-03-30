@@ -10,7 +10,7 @@
 https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_XrVSI/edit#gid=0
 
 
-最新更新日：2022年3月日
+最新更新日：2022年3月30日
 
 (補足)<br/>
 ・練習用にworkディレクトリを作成<br/>
@@ -84,6 +84,12 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・**chmodコマンド**によるパーミッションの設定方法について<br/>
       ・シンボルモードchmod[ugoa][+-=]<ファイル名><br/>
       ・複数のユーザをまとめて指定しパーミッション設定を行う方法<br/>
+    ・**数値モード**によるパーミッションの設定方法について<br/>
+<br/>
+<br/>
+  ・**ユーザーの切り替え方法**について<br/>
+    ・suコマンドによる『スーパーユーザー』への切り替え方法<br/>
+    
     
     
     
