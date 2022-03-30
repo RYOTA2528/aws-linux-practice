@@ -95,7 +95,9 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
 <br/>
 <br/>
   ・**プロセスとジョブについて**
-    ・プロセスの
+    ・プロセスの概要（親プロセスと子プロセスについて）
+    ・psコマンドにより現在動作しているプロセスを表示
+    ・プロセスIDについて
     
     
     
