@@ -10,7 +10,7 @@
 https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_XrVSI/edit#gid=0
 
 
-最新更新日：2022年3月30日
+最新更新日：2022年3月31日
 
 (補足)<br/>
 ・練習用にworkディレクトリを作成<br/>
@@ -106,7 +106,7 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・ジョブの概要<br/>
     ・コマンドを一時停止する方法(Ctrl + Z)<br/>
     ・ジョブを対話的に操作できる元の状態に戻す方法（フォアグラウンド：fgコマンド）<br/>
-    ・
+    ・ジョブの状態遷移
     
     
     
