@@ -99,6 +99,11 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・psコマンドにより現在動作しているプロセスを表示<br/>
     ・プロセスIDについて<br/>
     ・xオプションとプロセスの親子関係を表示するfオプション（ps xf)<br/>
+    ・現在のターミナル以外(デーモン)のプロセスを表示する方法<br/>
+    ・すべてのプロセスを表示する(ps ax)<br/>
+    ・psコマンドの各種オプションについて<br/>
+    
+    
     
     
     
