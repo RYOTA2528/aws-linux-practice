@@ -102,7 +102,11 @@ https://docs.google.com/spreadsheets/d/1Ozs0TgfI8m9M9TUXp7yEbxT8ec0LCtmNfHtvi_Xr
     ・現在のターミナル以外(デーモン)のプロセスを表示する方法<br/>
     ・すべてのプロセスを表示する(ps ax)<br/>
     ・psコマンドの各種オプションについて<br/>
-    
+    <br/>
+    ・ジョブの概要<br/>
+    ・コマンドを一時停止する方法(Ctrl + Z)<br/>
+    ・ジョブを対話的に操作できる元の状態に戻す方法（フォアグラウンド：fgコマンド）<br/>
+    ・
     
     
     
